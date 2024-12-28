@@ -12,7 +12,7 @@ jieba==0.42.1
 markdown2==2.5.0
 matplotlib==3.9.2
 nltk==3.9.1
-opencc==1.1.6
+opencc==1.1.9
 pangu==4.0.6.1
 rapidfuzz==3.9.7
 rouge_score==0.1.2
